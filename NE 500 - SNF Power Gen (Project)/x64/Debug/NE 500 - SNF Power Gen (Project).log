@@ -1,0 +1,3 @@
+﻿  NE 500 - SNF Power Gen (Project).cpp
+C:\dev\NE 500 - SNF Power Gen (Project)\fe_heat.h(98,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NE 500 - SNF Power Gen (Project).vcxproj -> C:\dev\NE 500 - SNF Power Gen (Project)\x64\Debug\NE 500 - SNF Power Gen (Project).exe
