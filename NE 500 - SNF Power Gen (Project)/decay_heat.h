@@ -5,6 +5,9 @@
 //	Description:
 //	Implements one-group decay heat approximation for SNF presented in "Nucelar Systems Vol. 1" [Todreas and Kazimi], as well as applying piecewise correction factor
 
+#ifndef _DECAY_HEAT_
+#define _DECAY_HEAT_
+
 //	--== utilities ==--
 #include <iostream>
 #include <cstring>
@@ -69,3 +72,5 @@ double corr_fin(double& ts, double &to) {
 
 	return q_frac;
 }
+
+#endif
